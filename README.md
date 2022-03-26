@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HighDeFing
+- 👋 Hi, I’m Heider DElgado
 - 👀 I’m interested in Data Science and Web Development. 
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on any Jobs looking vor a junior Developer. 
