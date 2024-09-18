@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heider Delgado
-- 👀 I’m interested in Data Science and Web Development. 
+- 👀 I’m interested in Data Science, Web Development and Cloud Computing. 
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on any Jobs looking for a junior Developer. 
 - 📫 How to reach me write me in linkedin https://www.linkedin.com/in/heiderd
